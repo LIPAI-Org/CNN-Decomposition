@@ -12,5 +12,7 @@ Key Results
 - Feature maps from intermediate layers provide additional insights for machine learning–based classification.
 
 This code is part of the of research on:
-
 "Compression of neural networks with Tucker decomposition for classifying dysplasia histological images" (https://repositorio.ufu.br/handle/123456789/41010)
+
+Citation:
+- FERNANDES, VITOR ; SILVA, ADRIANO ; PEREIRA, DANILO ; CARDOSO, SÉRGIO ; R. DE FARIA, PAULO ; LOYOLA, ADRIANO ; TOSTA, THAÍNA ; NEVES, LEANDRO ; Z. DO NASCIMENTO, MARCELO . Investigation of Deep Neural Network Compression Based on Tucker Decomposition for the Classification of Lesions in Cavity Oral. In: 19th International Conference on Computer Vision Theory and Applications, 2024, Rome. Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 2024. p. 516.
