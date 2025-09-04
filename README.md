@@ -10,3 +10,7 @@ Key Results
 - Tucker decomposition significantly reduces the number of parameters.
 - Maintains high classification accuracy, especially on balanced histological image datasets.
 - Feature maps from intermediate layers provide additional insights for machine learning–based classification.
+
+This code is part of the of research on:
+
+"Compression of neural networks with Tucker decomposition for classifying dysplasia histological images" (https://repositorio.ufu.br/handle/123456789/41010)
